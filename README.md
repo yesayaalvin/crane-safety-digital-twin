@@ -52,14 +52,13 @@ The pipeline operates in three interconnected stages:
 
 ## 3. Safety State Classification Matrix
 
-Hazard severity is evaluated under **CSA Z248** (Code for Tower Cranes) and **OSHA 1926.1419**:
 
 | Level | State Label | Spatial & Occlusion Criteria | HUD Alert |
 | :---: | :--- | :--- | :---: |
 | **0** | `SAFE` | Worker distance $> 3.0\text{ m}$; Load $> 3.0\text{ m}$ from structure | Normal HUD |
-| **1** | `DANGER_ZONE` | Worker $\le 3.0\text{ m}$ under active drop zone; Unobstructed line-of-sight | Caution Amber |
-| **2** | `STRUCTURAL_HAZARD` | Load trajectory $\le 3.0\text{ m}$ from building structure | Caution Amber |
-| **3** | `CRITICAL_BLINDSPOT` | Worker $\le 3.0\text{ m}$ **AND** operator line-of-sight occluded | Flashing Crimson |
+| **1** | `DANGER_ZONE` | Worker $\le 3.0\text{ m}$ under active drop zone; Unobstructed line-of-sight | Caution |
+| **2** | `STRUCTURAL_HAZARD` | Load trajectory $\le 3.0\text{ m}$ from building structure | Caution |
+| **3** | `CRITICAL_BLINDSPOT` | Worker $\le 3.0\text{ m}$ **AND** operator line-of-sight occluded | Flashing Caution |
 
 ---
 
@@ -88,6 +87,6 @@ You can run the full telemetry analytics, spatial risk heatmaps, and ML training
 
 **Yesaya Alvin Kriscahyadi**  
 M.Sc. Candidate in Data Science | B.Eng. in Civil Engineering  
-* Salatiga, Central Java, Indonesia
+* Jakarta, DKI JAKARTA, Indonesia
 * **LinkedIn:** [Your LinkedIn Profile URL]
 * **GitHub:** [Your GitHub Profile URL]
