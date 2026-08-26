@@ -3,7 +3,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME]/blob/main/crane_telemetry_analytics.ipynb)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Unity 3D](https://img.shields.io/badge/Unity-2022.3%20LTS-black.svg)](https://unity.com/)
-[![Standards](https://img.shields.io/badge/Compliant-CSA%20Z248%20%7C%20OSHA%201926.1419-orange.svg)]()
 
 > **An interactive 3D spatial digital twin and telemetry analytics pipeline developed to visualize, audit, and proactively forecast tower crane collision hazards and operator blind spots on congested jobsites.**
 
