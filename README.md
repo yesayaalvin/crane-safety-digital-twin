@@ -6,7 +6,8 @@
 
 An interactive 3D spatial digital twin and telemetry analytics framework developed to evaluate, visualize, and proactively forecast tower crane collision hazards and operator blind spots on high-density jobsites.
 
-> 🎥 **[Watch the 1-Minute Demonstration Video](YOUR_YOUTUBE_OR_DRIVE_LINK)**
+> 🎥 **[Watch the 2-Minute Demonstration Video](https://youtu.be/flMmRgOd7Z0)**
+> [![Watch the Demonstration Video](https://img.youtube.com/vi/flMmRgOd7Z0/maxresdefault.jpg)](https://www.youtube.com/watch?v=flMmRgOd7Z0)
 
 ---
 
