@@ -22,9 +22,13 @@ An interactive 3D spatial digital twin and telemetry analytics framework develop
 | :---: |
 | ![Risk Heatmap](RiskMap_Portfolio_Yesaya.png) |
 
-| Feature Importance & 1.0s Lookahead ROC Curve | Telemetry Analytics |
-| :---: | :---: |
-| ![Feature Importance & ROC](Python_PTI.png) | ![ML Performance](PythonCrane_Portfolio_Yesaya.png) |
+| Feature Importance & 1.0s Lookahead ROC Curve | 
+| :---: |
+| ![Feature Importance & ROC](Python_PTI.png) | 
+
+| Telemetry Analytics |
+| :---: |
+| ![ML Performance](PythonCrane_Portfolio_Yesaya.png) |
 
 ---
 
