@@ -13,7 +13,7 @@ An interactive 3D spatial digital twin and telemetry analytics framework develop
 ## 1. System Demonstration
 
 ### 3D Digital Twin Simulation (Unity Environment)
-| Operator Cab POV & Slew Envelope | Hook-View Drop-Zone Tracking | Structural Occlusion Hazard |
+| Driver's POV & Slew Envelope | Hook-View Drop-Zone Tracking | Structural Occlusion Hazard |
 | :---: | :---: | :---: |
 | ![Unity View 1](CraneBlindspotImage_1.png) | ![Unity View 2](CraneBlindspotImage_2.png) | ![Unity View 3](CraneBlindspotImage_3.png) |
 
@@ -24,7 +24,7 @@ An interactive 3D spatial digital twin and telemetry analytics framework develop
 
 | Feature Importance & 1.0s Lookahead ROC Curve | Telemetry Analytics |
 | :---: | :---: |
-| ![CREI Timeline](Python_PTI.png) | ![ML Performance](PythonCrane_Portfolio_Yesaya.png) |
+| ![Feature Importance & ROC](Python_PTI.png) | ![ML Performance](PythonCrane_Portfolio_Yesaya.png) |
 
 ---
 
