@@ -88,5 +88,5 @@ You can run the full telemetry analytics, spatial risk heatmaps, and ML training
 **Yesaya Alvin Kriscahyadi**  
 M.Sc. Candidate in Data Science | B.Eng. in Civil Engineering  
 * Jakarta, DKI JAKARTA, Indonesia
-* **LinkedIn:** [https://www.linkedin.com/in/yesaya-alvin-k/]
+* **[LinkedIn](https://www.linkedin.com/in/yesaya-alvin-k/)**
 * **GitHub Portfolio:** [https://yesayaalvin.github.io/portfolio/]
