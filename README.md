@@ -1,6 +1,6 @@
 # Construction Crane Safety Digital Twin: 1:1 Spatial Telemetry & Predictive AI
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME]/blob/main/crane_telemetry_analytics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[yesayaalvin]/[crane-safety-digital-twin]/blob/main/crane_telemetry_analytics.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Unity](https://img.shields.io/badge/Unity-2022.3%20LTS-000000.svg?logo=unity&logoColor=white)](https://unity.com/)
 
